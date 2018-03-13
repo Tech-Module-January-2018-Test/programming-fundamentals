@@ -28,7 +28,7 @@ Print them in the format as per the examples.
 
 |    Input                      |    Output                                                       |
 |-------------------------------|-----------------------------------------------------------------|
-|    Mayro   5   10   9   10    |    Name: Mayro   Health: ||||||.....|   Energy: ||||||||||.|    |
+|    Mayro   5   10   9   10    |    Name: Mayro   Health: \|\|\|\|\|\|.....\|   Energy: \|\|\|\|\|\|\|\|\|\|.\|    |
  
 
 |    Input                         |    Output                                                        |
