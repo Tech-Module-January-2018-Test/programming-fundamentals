@@ -11,130 +11,28 @@ Print them in the format as per the examples.
 
 #### Examples
 
+
+
+|    Input                      |    Output                                                       |
+|-------------------------------|-----------------------------------------------------------------|
+|    Mayro   5   10   9   10    |    Name: Mayro   Health: ||||||.....|   Energy: ||||||||||.|    |
  
 
-**Input**
+|    Input                         |    Output                                                        |
+|----------------------------------|------------------------------------------------------------------|
+|    Bauser   10   10   10   10    |    Name: Bauser   Health: ||||||||||||   Energy: ||||||||||||    |
 
- 
 
-**Output**
+|    Input                      |    Output                                                                       |
+|-------------------------------|---------------------------------------------------------------------------------|
+|    Loogi   8   20   2   14    |    Name: Loogi   Health: |||||||||............|   Energy:   |||............|    |
 
- 
 
-** **
+|    Input                    |    Output                                                 |
+|-----------------------------|-----------------------------------------------------------|
+|    Toad   0   5   0   10    |    Name: Toad   Health: |.....|   Energy: |..........|    |
 
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Mayro
-
-5
-
-10
-
-9
-
-10
-
- 
-
-Name: Mayro
-
-Health: ||||||.....|
-
-Energy: ||||||||||.|
-
- 
-
-Bauser
-
-10
-
-10
-
-10
-
-10
-
- 
-
-Name: Bauser
-
-Health: ||||||||||||
-
-Energy: ||||||||||||
-
- 
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-** **
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Loogi
-
-8
-
-20
-
-2
-
-14
-
- 
-
-Name: Loogi
-
-Health: |||||||||............|
-
-Energy:
-  |||............|
-
- 
-
-Toad
-
-0
-
-5
-
-0
-
-10
-
- 
-
-Name: Toad
-
-Health: |.....|
-
-Energy: |..........|
 
 #### Hints
 
-·        
 You can print a character **multiple** times, using new string(character, count).
