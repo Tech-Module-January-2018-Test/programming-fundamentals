@@ -11,10 +11,10 @@ namespace EXC_01.Debit_Card_Number
 		static void Main(string[] args)
 		{
 
-			int firstNum = int.Parse(Console.ReadLine());
-			int secondNum = int.Parse(Console.ReadLine());
-			int thirdNum = int.Parse(Console.ReadLine());
-			int fourthNum = int.Parse(Console.ReadLine());
+			int firstNumber = int.Parse(Console.ReadLine());
+			int secondNumber = int.Parse(Console.ReadLine());
+			int thirdNumber = int.Parse(Console.ReadLine());
+			int fourthNumber = int.Parse(Console.ReadLine());
 
 			Console.WriteLine($"{firstNum:D4} {secondNum:D4} {thirdNum:D4} {fourthNum:D4}");
 		}
