@@ -24,7 +24,6 @@ Print them in the format as per the examples.
 #### Examples
 
 
-
 |    Input                      |    Output                                                       |
 |-------------------------------|-----------------------------------------------------------------|
 |    Mayro<br/>5<br/>10<br/>9<br/>10    |    Name: Mayro<br/>Health: \|\|\|\|\|\|.....\|<br/>Energy: \|\|\|\|\|\|\|\|\|\|.\|    |
@@ -43,6 +42,7 @@ Print them in the format as per the examples.
 |    Input                    |    Output                                                 |
 |-----------------------------|-----------------------------------------------------------|
 |    Toad<br/>0<br/>5<br/>0<br/>10    |    Name: Toad<br/>Health: \|.....\|<br/>Energy: \|..........\|    |
+
 
 
 #### Hints
