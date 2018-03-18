@@ -8,7 +8,7 @@ namespace MilesToKilometers
         {
             double miles = double.Parse(Console.ReadLine());
 
-            double kilometers = miles * 1.60934;
+            double km = miles * 1.60934;
 
             Console.WriteLine($"{kilometers:F2}");
         }
