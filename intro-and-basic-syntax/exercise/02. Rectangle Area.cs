@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Confirmed by mtsoneva
+
+using System;
 
 namespace Problem_02_Rectangle_Area
 {
