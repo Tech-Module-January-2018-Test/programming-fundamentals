@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Confirmed by mtsoneva
+
+using System;
 
 namespace Problem_02_Rectangle_Area
 {
@@ -9,10 +11,10 @@ namespace Problem_02_Rectangle_Area
 			// Here we parse the variables to double
             double width = double.Parse(Console.ReadLine());
             double height = double.Parse(Console.ReadLine());
-            double result = width * height;
+            double area = width * height;
 
 			// Here we print the result
-            Console.WriteLine("{0:0.00}", result);
+            Console.WriteLine("{0:0.00}", area);
         }
     }
 }
