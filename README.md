@@ -13,6 +13,16 @@ console and **prints them** in **4-digit debit card format**. See the examples b
 | 9182<br/>4221<br/>12<br/>3| 9182 4221 0012 0003    |
 | 812<br/>321<br/>123<br/>22| 0812 0321 0123 0022    |
 
+### Problem 2. Rectangle area.
+
+Write a program, which calculates a rectangle’s area, based on its width and height. The width and height come as floating point numbers on the console, formatted to the 2nd character after the decimal point.
+
+InputOutput2
+714.007
+856.0012.33
+561.65
+
+
 
 ### Problem 3. Miles to Kilometers
 
@@ -35,21 +45,33 @@ Write a program, which reads a food product name, volume, energy content per 100
 * Sugar content – real number, suffixed by “g” (e.g. “30g”) 
 #### Examples
 
-InputOutputNuka-Cola
+Input
+Output
+Nuka-Cola
 220
 300
-70220ml Nuka-Cola:
-660kcal, 154g sugars
-InputOutputIce Cold Nuka-Cola
+70
+220ml Nuka-Cola:
+660kcal, 154g sugars
+
+Input
+Output
+Ice Cold Nuka-Cola
 250
 350
-65250ml Ice Cold Nuka-Cola:
-875kcal, 162.5g sugars
-InputOutputNuka-Cola Quantum
+65
+250ml Ice Cold Nuka-Cola:
+875kcal, 162.5g sugars
+
+Input
+Output
+Nuka-Cola Quantum
 350
 600
-140350ml Nuka-Cola Quantum:
-2100kcal, 490g sugars
+140
+350ml Nuka-Cola Quantum:
+2100kcal, 490g sugars
+
 
 
 
