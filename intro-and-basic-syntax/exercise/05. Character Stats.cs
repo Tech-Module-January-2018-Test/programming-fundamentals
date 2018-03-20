@@ -14,7 +14,7 @@ namespace EXC_05.Character_Stats
 		{
             // Here we read from the Console.
 
-			string name = Console.ReadLine();
+			string inputName = Console.ReadLine();
 			int currentHealth = int.Parse(Console.ReadLine());
 			int maxHealth = int.Parse(Console.ReadLine());
 			int currentEnergy = int.Parse(Console.ReadLine());
