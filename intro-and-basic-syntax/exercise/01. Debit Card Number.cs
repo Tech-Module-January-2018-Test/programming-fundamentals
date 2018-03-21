@@ -17,7 +17,7 @@ namespace EXC_01.Debit_Card_Number
 			int thirdNumber = int.Parse(Console.ReadLine());
 			int fourthNumber = int.Parse(Console.ReadLine());
             // Here we print the numbers in the required format.
-			Console.WriteLine($"{firstNum:D4} {secondNum:D4} {thirdNum:D4} {fourthNum:D4}");
+			Console.WriteLine($"{firstNumber:D4} {secondNumber:D4} {thirdNumber:D4} {fourthNumber:D4}");
 		}
 	}
 }

@@ -13,7 +13,7 @@ namespace MilesToKilometers
             double km = miles * 1.60934;
             
             // Here we print the result in required format.
-            Console.WriteLine($"{kilometers:F2}");
+            Console.WriteLine($"{km:F2}");
         }
     }
 }
