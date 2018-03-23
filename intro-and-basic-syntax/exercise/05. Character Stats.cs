@@ -27,7 +27,7 @@ namespace EXC_05.Character_Stats
 			string energyMissing = new string('.', maxEnergy - currentEnergy);
 
             // Here we print the result in required format.
-			Console.WriteLine($"Name: {name}");
+			Console.WriteLine($"Name: {inputName}");
 			Console.WriteLine($"Health: |{healthAsText}{healthMissing}|");
 			Console.WriteLine($"Energy: |{energyAsText}{energyMissing}|");
 		}
